@@ -1,3 +1,5 @@
+# Conditional rendering
+
 In React, **conditional rendering** lets you show or hide UI elements based on certain conditions—usually controlled by **props**, **state**, or **logic**.
 
 ## Basic `if` Statement
