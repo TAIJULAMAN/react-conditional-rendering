@@ -1,5 +1,7 @@
 # Conditional rendering
 
+Your components will often need to display different things depending on different conditions. In React, you can conditionally render JSX using JavaScript syntax like if statements, &&, and ? : operators.
+
 In React, **conditional rendering** lets you show or hide UI elements based on certain conditions—usually controlled by **props**, **state**, or **logic**.
 
 ## Basic `if` Statement
